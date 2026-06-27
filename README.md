@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This is the capstone case study for the **Google Data Analytics Professional Certificate**. I took on the role of a junior data analyst at **Cyclistic**, a fictional bike-share company based in Chicago. The goal was to analyze how annual members and casual riders use Cyclistic bikes differently, and to provide data-driven marketing recommendations to convert casual riders into annual members.
 
@@ -45,7 +45,7 @@ cyclistic-bike-share-analysis/
 
 ---
 
-## 🗄️ Data Source
+## Data Source
 
 - **Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) (publicly available, licensed by Lyft Bikes and Scooters, LLC / City of Chicago)
 - **Period Covered:** January 2025 – December 2025 (12 months, full year)
@@ -56,7 +56,7 @@ The data follows the **ROCCC** framework: Reliable, Original, Comprehensive, Cur
 
 ---
 
-## 🛠️ Tools & Workflow
+## Tools & Workflow
 
 | Phase | Tool | Purpose |
 |-------|------|---------|
@@ -70,7 +70,7 @@ The data follows the **ROCCC** framework: Reliable, Original, Comprehensive, Cur
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Finding 1 — Casual Riders Take Longer Rides
 | Membership | Avg Ride Length |
@@ -149,7 +149,7 @@ Use in-app notifications and station signage to display a live cost comparison �
 
 ---
 
-## 📄 Full Report
+## Full Report
 
 For the complete analysis including all methodology details, SQL queries with results, and Tableau build steps, see [`Case_Study_Complete.docx`](./Case_Study_Complete.docx).
 
