@@ -136,7 +136,7 @@ The interactive dashboard was built in Tableau Public using 5 exported CSV summa
 
 ---
 
-## 💡 Top 3 Recommendations
+## Top 3 Recommendations
 
 **1. Launch a Summer Membership Campaign**  
 Target casual riders in May with a discounted annual membership offer, promoted at top casual stations (Navy Pier, Millennium Park, DuSable Lake Shore Drive) when summer engagement is at its peak.
