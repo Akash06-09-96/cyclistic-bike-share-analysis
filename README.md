@@ -12,7 +12,7 @@ This is the capstone case study for the **Google Data Analytics Professional Cer
 
 ---
 
-## ❓ Business Task
+## Business Task
 
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 
